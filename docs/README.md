@@ -141,6 +141,8 @@ https://www.youtube.com/watch?v=HccqokXN2n8&list=PL4Gr5tOAPttLOY9IrWVjJlv4CtkYI5
 
 <!-- tabs:end -->
 
+---
+
 ### YT Collapsible element (yt-embed-collapse)
 
 <!-- tabs:start -->
@@ -242,7 +244,6 @@ https://www.youtube.com/watch?v=HccqokXN2n8&list=PL4Gr5tOAPttLOY9IrWVjJlv4CtkYI5
 > So in this attached example `Embed-ID` is `HccqokXN2n8`
 
 <!-- tabs:end -->
-
 
 ---
 
