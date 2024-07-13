@@ -2,7 +2,7 @@
 
 > This plugin enhances Docsify with `advanced YouTube video embedding` capabilities, allowing for easy insertion of responsive, customizable YouTube videos directly into your Markdown files.
 >
-> The detailed explanation of the plugin usage and its preview is shown in this [:link: Docsify documentation]().
+> The detailed explanation of the plugin usage and its preview is shown in this [:link: Docsify documentation](https://sanjay0302.github.io/docsify-yt-embed/#/).
 
 ---
 
