@@ -1,3 +1,15 @@
+![GitHub forks][fork]
+![GitHub watchers][watcher]
+[![GitHub repo size][repo-size]][repo]
+[![GitHub License][licence-badge]][licence]
+
+[fork]: https://img.shields.io/github/forks/Sanjay0302/docsify-yt-embed?style=flat-square
+[watcher]: https://img.shields.io/github/watchers/Sanjay0302/docsify-yt-embed?style=flat-square
+[repo-size]: https://img.shields.io/github/repo-size/Sanjay0302/docsify-yt-embed?style=flat-square
+[repo]: https://github.com/Sanjay0302/docsify-yt-embed.git
+[licence-badge]: https://img.shields.io/github/license/Sanjay0302/docsify-yt-embed?style=flat-square
+[licence]: https://github.com/Sanjay0302/docsify-yt-embed/blob/48b424e047ab144500dbf3f2eb3a868566963528/LICENSE
+
 # Docsify Custom YouTube Embed Plugin
 
 **I recommend reading through** [Docsify Preview](https://sanjay0302.github.io/docsify-yt-embed/#/)
